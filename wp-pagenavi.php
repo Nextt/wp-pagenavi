@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP-PageNavi
+Plugin Name: WP-PageNavi - iDSA
 Version: 2.83
 Description: Adds a more advanced paging navigation to your WordPress blog
 Author: Lester 'GaMerZ' Chan & scribu
